@@ -1,7 +1,26 @@
 {
     "bookname": "轻松打造属于自己的即时出版平台",
+    "description": "Gitbook-summary 中文说明文档",
     "author": {
-    	"name": "Imfly",
+        "name": "Imfly",
         "email": "790506@gmail.com"
+    },
+    "keywords": [
+        "gitbook",
+        "summary",
+        "cli",
+        "nodejs",
+        "中文说明文档",
+        "自出版平台"
+    ],
+
+    "homepage": "http://imfly.github.io/how-to-create-self-publishing-platform",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/imfly/how-to-create-self-publishing-platform.git"
+    },
+    "bugs": {
+        "url": "https://github.com/imfly/sailsjs-docs-gitbook/issues"
     }
 }
