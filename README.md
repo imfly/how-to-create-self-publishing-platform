@@ -4,17 +4,15 @@
 
 这种既是开发又是写作的感觉，真不错，玩而已 ^_^。
 
-#### 说明
+#### 关于
 
-这是命令行工具[gitbook-summary](https://github.com/imfly/gitbook-summary)的中文文档，也是它的Demo工程。
+这是命令行工具[gitbook-summary](https://github.com/imfly/gitbook-summary)的中文文档，也是它的Demo工程。`gitbook-summary` （以下简称Summary）是一个自动构建目录的小工具。
 
 [电子书地址](http://imfly.github.io/how-to-create-self-publishing-platform)
 
 [源文地址](https://github.com/imfly/how-to-create-self-publishing-platform)
 
-#### 关于
-
-`gitbook-summary` （以下简称Summary）是一个自动构建目录的小工具。
+#### 说明
 
 想象一下，一大堆的文档，堆积在不同的文件夹里，没有索引或目录该是多么糟糕的事情。Summary可以让您从这些麻烦中解脱出来，帮您一键生成规范的目录文件，并转化为电子书（html、pdf等格式）。
 
