@@ -1,15 +1,14 @@
-# 轻松打造属于自己的自出版平台
+# 轻松打造属于自己的出版平台
 
-**声明：这是一本写给像我这样，需要靠一些工具辅助记忆和总结的人（据统计，这号人占据人类80%，如果，您是那20%，就不要在这浪费时间了）**
+**声明：这是一本写给像我这样，需要靠一些工具辅助记忆和总结的人（据统计，这号人占据人类80%，如果，您是那20%的聪明人，就不要在这浪费时间了）**
 
 这种既是开发又是写作的感觉，真不错，玩而已 ^_^。
 
 #### 关于
 
-这是命令行工具[gitbook-summary](https://github.com/imfly/gitbook-summary)的中文文档，也是它的Demo工程。`gitbook-summary` （以下简称Summary）是一个自动构建目录的小工具。
+[gitbook-summary](https://github.com/imfly/gitbook-summary)(以下简称Summary）是一个自动构建文档目录的小工具。这是它的中文文档，也是Demo工程。
 
-[电子书地址](http://imfly.github.io/how-to-create-self-publishing-platform)
-
+[电子书地址](http://imfly.github.io/how-to-create-self-publishing-platform) 
 [源文地址](https://github.com/imfly/how-to-create-self-publishing-platform)
 
 #### 说明
@@ -34,7 +33,7 @@
 
 如果您有兴趣，欢迎批评和参与
 
-有什么想法或要求，发现了某些错误或bug，可以直接**[点击这里](https://github.com/imfly/gitbook-summary)**
+有什么想法或问题，发现了某些错误或bug，可以直接发布到**[这里](https://github.com/imfly/gitbook-summary)**
 
 #### 协议
 
