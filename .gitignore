@@ -8,3 +8,9 @@ _doc
 *.pdf
 
 *.*~
+
+bower_components
+node_modules
+doc
+
+.publish

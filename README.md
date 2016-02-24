@@ -3,9 +3,9 @@
 
 #### 关于
 
-本方法还要依赖[gitbook-summary](https://github.com/imfly/gitbook-summary)(以下简称Summary），它是一个自动构建文档目录的小工具。这是它的中文文档，也是Demo工程。
+本电子书由[gitbook-summary](https://github.com/imfly/gitbook-summary)(以下简称Summary）生成，它是一个自动构建文档目录的小工具。这是它的中文文档，也是Demo工程。
 
-[电子书地址](http://imfly.github.io/how-to-create-self-publishing-platform) 
+[电子书地址](http://imfly.github.io/how-to-create-self-publishing-platform)
 [源文地址](https://github.com/imfly/how-to-create-self-publishing-platform)
 
 #### 说明
@@ -24,4 +24,6 @@
 
 #### 协议
 
-转载或引用，仅需注明本地址！
+转载或引用，需注明出处！
+
+原创作品许可 [署名-非商业性使用-禁止演绎 3.0 未本地化版本 (CC BY-NC-ND 3.0)](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)

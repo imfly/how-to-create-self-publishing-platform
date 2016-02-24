@@ -1,0 +1,30 @@
+{
+  "name": "how-to-create-self-publishing-platform",
+  "version": "0.0.6",
+  "description": "Gitbook-summary 中文说明文档",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "deploy": "node_modules/.bin/gulp deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://imfly.github.io/bitcoin-on-nodejs"
+  },
+  "keywords": [
+    "bitcoin",
+    "nodejs"
+  ],
+  "author": "imfly",
+  "license": "MIT",
+  "bugs": {
+    "url": "http://imfly.github.io/bitcoin-on-nodejs/issues"
+  },
+  "homepage": "http://imfly.github.io/bitcoin-on-nodejs#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.0",
+    "gulp-gh-pages": "^0.5.4"
+  }
+}
